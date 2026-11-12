@@ -1,0 +1,7 @@
+[package]
+name="molerat-repro"
+version="0.1.0"
+edition="2021"
+
+[dependencies]
+molerat={version = "0.1.0-rc.0", features = ["mcp"]}
